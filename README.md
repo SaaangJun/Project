@@ -27,7 +27,7 @@ Ideation
   추가로 skill들과 action 이 정해지면 우선순위도 고려해야함.
 
 
-
+***** 일단은 q-learning 기반 ( 추후 목적에 맞게 수정할 예정)  ***** 
  
  
 To Do List:
