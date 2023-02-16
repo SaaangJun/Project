@@ -28,5 +28,11 @@ Ideation
 
 
 
+ 
+ 
+ 
+ 
+ 
+ 
 Requirements:
 python 3.7 이상
