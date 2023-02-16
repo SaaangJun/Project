@@ -25,3 +25,8 @@ Ideation
   Skill 3. 현재 자리에서 멈추기(Staying) -----> 1번과 통합할지 고민중.
 
   추가로 skill들과 action 이 정해지면 우선순위도 고려해야함.
+
+
+
+Requirements:
+python 3.7 이상
