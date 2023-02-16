@@ -30,8 +30,16 @@ Ideation
 
  
  
- 
- 
+To Do List:
+
+1. Agent 추가
+
+  - 이에 해당하는 action 정의
+  
+  - skill 추가 
+  
+  (어려운 점) : manager 생성 후 skill들을 코드에 어떤식으로 구성해야하는지
+  
  
  
 Requirements:
