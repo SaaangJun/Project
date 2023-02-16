@@ -107,7 +107,7 @@ class Environment(tk.Tk, object):
         self.obstacle2 = self.canvas_widget.create_rectangle(
             obstacle2_center[0] - 10, obstacle2_center[1] - 10,  # Top left corner       ****크기****
             obstacle2_center[0] + 10, obstacle2_center[1] + 10,  # Bottom right corner
-            outline='grey', fill='#00BFFF')
+            outline='grey', fill='#3DBA4A')
         # Saving the coordinates of obstacle 1 according to the size of agent
         # In order to fit the coordinates of the agent
         self.coords_obstacle2 = [self.canvas_widget.coords(self.obstacle2)[0] + 10,
