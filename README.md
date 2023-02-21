@@ -1,5 +1,16 @@
 # Project
 
+어카농? 
+
+걍 다른거로 만들어보는게 낫지 않나?
+
+https://magent2.farama.org/environments/tiger_deer/
+
+이거 괜찮아 보이는데 windows 기반으로도 돌아갈 수 있게 수정해야하지 않나
+https://github.com/geek-ai/MAgent/blob/master/doc/get_started.md
+https://github.com/Farama-Foundation/magent2
+
+---
 
 Ideation
 
@@ -39,8 +50,6 @@ To Do List:
   - skill 추가 
   
   (어려운 점) : manager 생성 후 skill들을 코드에 어떤식으로 구성해야하는지
-
-
 
 
 나중에 수정해야 할 부분:
