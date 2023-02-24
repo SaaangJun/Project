@@ -77,6 +77,7 @@ class Environment(tk.Tk, object):
             x0, y0, x1, y1 = 0, row, env_height * pixels, row
             self.canvas_widget.create_line(x0, y0, x1, y1, fill='grey')
 
+        # TODO: pixel 단위가 아니라 랜덤배치로 하도록 추가해놨음 여기를 수정. 아래 obstacle이 저거 스위치
         # Creating objects of  Switches
         # An array to help with building rectangles
         self.o = np.array([pixels / 2, pixels / 2])
@@ -84,7 +85,7 @@ class Environment(tk.Tk, object):
         self.r2 = (np.random.randint(1, 22, size=3)) * 20
         self.n = self.o + np.array([self.r1[2], self.r2[2]])
 
-        # Obstacle 1
+        # Obstacle 1 Switch
         # Defining the center of obstacle 1
         obstacle1_center = self.o + np.array([self.r1[0],self.r2[0]])
         # Building the obstacle 1

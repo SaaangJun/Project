@@ -10,6 +10,12 @@ https://magent2.farama.org/environments/tiger_deer/
 https://github.com/geek-ai/MAgent/blob/master/doc/get_started.md
 https://github.com/Farama-Foundation/magent2
 
+일단 다른 거 clone 해서 조금 가져다 써보는 걸 목적으로 해봐야 할 듯.
+
+- 일단 matplotlib 이 아니라 gymnasium 을 상속해서 만들면 좋을 것 같은데
+- 그 다음에 pygame 으로 visualization
+
+
 ---
 
 Ideation
@@ -17,7 +23,7 @@ Ideation
 * Multi agent <-> Centralized Multi agent <-> Skill based RL 
 
 <Skill based RL>
- 1.매니저가 스킬을 보유한다. 
+ 1.매니저가 스킬을 보유한다.
  
  2.이 스킬들은 하위 에이전트에게 전달된다.
 
